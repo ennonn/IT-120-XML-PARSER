@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cars>
+  <supercars company="Ferrari">
+    <carname type="formula one">Ferrari 101</carname>
+    <carname type="sports">Ferrari 202</carname>
+    <carname type="newType1">NewCar1</carname>
+    <carname type="newType2">NewCar2</carname>
+  </supercars>
+  <supercars company="Lamborghini">
+    <carname type="formula one">Lamborghini 001</carname>
+    <carname type="sports">Lamborghini 002</carname>
+    <carname type="newType1">NewCar1</carname>
+  </supercars>
+  <luxurycars company="Bentley">
+    <carname>Bentley 1</carname>
+    <carname>Bentley 2</carname>
+    <carname>Bentley 3</carname>
+  </luxurycars>
+  <luxurycars company="RollsRoyce">
+    <carname>Rolls Royce 1</carname>
+    <carname>Rolls Royce 2</carname>
+    <carname>Rolls Royce 3</carname>
+  </luxurycars>
+  <supercars company="Bugatti">
+    <carname type="race">Bugatti Race 001</carname>
+    <carname type="hypercar">Bugatti Hypercar 002</carname>
+  </supercars>
+  <luxurycars company="Mercedes">
+    <carname>Mercedes Luxury 001</carname>
+    <carname>Mercedes Luxury 002</carname>
+  </luxurycars>
+  <supercars company="Porsche">
+    <carname type="classic">Porsche Classic 001</carname>
+    <carname type="suv">Porsche SUV 002</carname>
+  </supercars>
+</cars>
